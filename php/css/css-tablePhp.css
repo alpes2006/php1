@@ -1,0 +1,16 @@
+table{
+      border: 5px solid red;
+      border-collapse: collapse;
+}
+
+td{
+   border: 1px solid green;
+}
+
+.a{
+   font-weight: bold;
+}
+
+.b{
+   color: blue;
+}
